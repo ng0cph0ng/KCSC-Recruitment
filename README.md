@@ -1,4 +1,4 @@
-# KCSC-Recruitment
+# Reverse 
 
 **Real Warmup**<br />
 >&nbsp;&nbsp;&nbsp;Trước tiên, ta dùng die(Detect It Easy) để xác định thông tin file chall.exe.<br />
