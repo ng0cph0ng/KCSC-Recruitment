@@ -1,4 +1,4 @@
-![image](https://github.com/ng0cph0ng/KCSC-Recruitment/assets/93986136/78a0123b-7dd2-43fb-9b88-aa1485852262)# Web
+# Web
 
 **Mi Tom Thanh Long**<br/>
 >&nbsp;&nbsp;&nbsp;Ta sẽ truy cập vào đường dẫn đề bài, ta sẽ được giao diện web như sau:<br/>
