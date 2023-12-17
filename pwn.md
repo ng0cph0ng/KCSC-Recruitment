@@ -7,3 +7,4 @@
 > file này. Và tình cờ rằng ta sẽ thấy được 3 phần của flag đưa rải rác khắp nơi trong file. Từng phần lần lượt là: ``KCSC{A_gift_`` + ``for_the_`` + ``pwners_0xdeadbeef}``<br/>
 &nbsp;&nbsp;&nbsp;Ta sẽ thử submit với các phần flag đó và thành công.<br/>
 &nbsp;&nbsp;&nbsp;Vậy flag sẽ là: ``KCSC{A_gift_for_the_pwners_0xdeadbeef}``<br/>
+---------------
